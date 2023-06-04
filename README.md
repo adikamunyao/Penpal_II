@@ -16,4 +16,4 @@ CPU - (Central Processing Unit)
 
 ## Proposed Work
 For the task at hand, a Neural Network (NN) is utilized, which comprises several types of layers. These layers include Convolutional Neural Network (CNN) layers, Recurrent Neural Network (RNN) layers, and a final layer known as Connectionist Temporal Classification (CTC) layer. The CNN layers are responsible for extracting features from the input images, while the RNN layers capture the sequential dependencies within the extracted features. The CTC layer is used for decoding the sequential predictions into the final recognized text.
-
+![proposed model](img2.png)
